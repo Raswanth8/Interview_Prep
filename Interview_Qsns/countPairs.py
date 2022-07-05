@@ -15,4 +15,4 @@ def countPairs(nums, target):
 
 print(countPairs([1, 5, 7, -1, 5], 6))
 
-# Amazon Interview
+# Amazon Interview - Question
